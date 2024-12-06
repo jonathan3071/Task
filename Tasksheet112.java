@@ -9,6 +9,7 @@ public class Tasksheet112 {
         String dd = "d";
         double two = 2.0;
         boolean tro = true;
-        System.out.println(name + num1 + one + one + zero + " " + ww + zero + rr + one + dd + " " + two + " " + tro);
+        String output = name + num1 + one + one + zero + " " + ww + zero + rr + one + dd + " " + two + " " + tro;
+        System.out.println(output);
     }
 }
