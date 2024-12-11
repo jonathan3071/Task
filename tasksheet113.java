@@ -2,22 +2,22 @@ public class tasksheet113 {
 
     public static void main (String[] args){
           
-        int total = 5 * 10;
+        int total = 1 + 2;
         System.out.println(total);
 
-        total = total - 25;
+        total -= total - 1;
         System.out.println(total);
 
-        total = total * 4; 
+        total *= total * 2; 
         System.out.println(total);
 
-        total = total / 2;
+        total /= total / 2;
         System.out.println(total);
 
-        total = total + 10;
+        total += total + 8;
         System.out.println(total);
 
-        total = total % 7;
+        total %= total % 7;
         System.out.println(total);
 
     }
